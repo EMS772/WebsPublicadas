@@ -1,0 +1,28 @@
+{
+  "name": "WaTools — Herramientas gratuitas para WhatsApp",
+  "short_name": "WaTools",
+  "description": "Convierte audios de WhatsApp a MP3 y genera links wa.me con QR. Gratis, sin registro, sin límites.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#25d366",
+  "lang": "es",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "categories": ["utilities", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Convertir audio a MP3",
+      "short_name": "Audio MP3",
+      "description": "Convierte tu audio .opus de WhatsApp a MP3",
+      "url": "/"
+    },
+    {
+      "name": "Generar link WhatsApp",
+      "short_name": "Link WA",
+      "description": "Genera tu link wa.me con QR gratis",
+      "url": "/link-whatsapp.html"
+    }
+  ]
+}
