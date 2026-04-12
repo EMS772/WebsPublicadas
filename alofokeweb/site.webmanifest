@@ -1,0 +1,19 @@
+{
+  "name": "Planeta Alofoke Online",
+  "short_name": "Planeta Alofoke",
+  "description": "El reality show digital más grande de República Dominicana. Ver en vivo gratis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "any",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

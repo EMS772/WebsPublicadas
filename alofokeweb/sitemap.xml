@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://planetaalofoke.online/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/"/>
+    <xhtml:link rel="alternate" hreflang="es-419"    href="https://planetaalofoke.online/"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/"/>
+    <xhtml:link rel="alternate" hreflang="es-ES"     href="https://planetaalofoke.online/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/"/>
+    <image:image>
+      <image:loc>https://planetaalofoke.online/og-image.jpg</image:loc>
+      <image:title>Planeta Alofoke — Reality Show Digital 2026</image:title>
+      <image:caption>Planeta Alofoke en vivo. El reality show más grande de República Dominicana. Estreno 13 de abril 2026.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- PARTICIPANTES -->
+  <url>
+    <loc>https://planetaalofoke.online/participantes.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/participantes.html"/>
+    <xhtml:link rel="alternate" hreflang="es-419"    href="https://planetaalofoke.online/participantes.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/participantes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/participantes.html"/>
+  </url>
+
+  <!-- COMO VER -->
+  <url>
+    <loc>https://planetaalofoke.online/como-ver.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/como-ver.html"/>
+    <xhtml:link rel="alternate" hreflang="es-419"    href="https://planetaalofoke.online/como-ver.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/como-ver.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/como-ver.html"/>
+  </url>
+
+  <!-- CHISMES INDEX -->
+  <url>
+    <loc>https://planetaalofoke.online/chismes/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/chismes/"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/chismes/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/chismes/"/>
+  </url>
+
+  <!-- CHISMES: PAMELA INFANTE -->
+  <url>
+    <loc>https://planetaalofoke.online/chismes/pamela-infante-wander-franco.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/chismes/pamela-infante-wander-franco.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/chismes/pamela-infante-wander-franco.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/chismes/pamela-infante-wander-franco.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T10:00:00-04:00</news:publication_date>
+      <news:title>Pamela Infante: De Wander Franco a Yaisel La Melodía — El Chisme Completo</news:title>
+    </news:news>
+  </url>
+
+  <!-- CHISMES: ANA BEATO -->
+  <url>
+    <loc>https://planetaalofoke.online/chismes/ana-beato-brayan-elton.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/chismes/ana-beato-brayan-elton.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/chismes/ana-beato-brayan-elton.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/chismes/ana-beato-brayan-elton.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T11:00:00-04:00</news:publication_date>
+      <news:title>Ana Beato y Brayan Elton: La Confesión que lo Complicó Todo</news:title>
+    </news:news>
+  </url>
+
+  <!-- CHISMES: KARLA ALVAREZ -->
+  <url>
+    <loc>https://planetaalofoke.online/chismes/karla-alvarez-jet-set.html</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/chismes/karla-alvarez-jet-set.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/chismes/karla-alvarez-jet-set.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/chismes/karla-alvarez-jet-set.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-13T10:00:00-04:00</news:publication_date>
+      <news:title>Karla Álvarez y el Jet Set: El Escándalo que la Cancelaron</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG INDEX -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/"/>
+  </url>
+
+  <!-- BLOG: PARTICIPANTES CONFIRMADOS -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/participantes-confirmados.html</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/participantes-confirmados.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/blog/participantes-confirmados.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/participantes-confirmados.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-14T09:00:00-04:00</news:publication_date>
+      <news:title>Los 14 Participantes Confirmados de Planeta Alofoke 2026 — Elenco Oficial</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: ALOFOKE EN VIVO -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/alofoke-en-vivo.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.92</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/alofoke-en-vivo.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/blog/alofoke-en-vivo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/alofoke-en-vivo.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T14:00:00-04:00</news:publication_date>
+      <news:title>Alofoke en Vivo — Ver el Canal de YouTube de Santiago Matías Ahora</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: SANTIAGO MATIAS -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/santiago-matias-alofoke.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/santiago-matias-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/blog/santiago-matias-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/santiago-matias-alofoke.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T15:00:00-04:00</news:publication_date>
+      <news:title>Santiago Matías Alofoke — Quién es, Edad, Fortuna y Planeta Alofoke 2026</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: YOUTUBE ALOFOKE -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/youtube-alofoke.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/youtube-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/blog/youtube-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/youtube-alofoke.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T16:00:00-04:00</news:publication_date>
+      <news:title>YouTube Alofoke — Canal Oficial de Santiago Matías y Planeta Alofoke 2026</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: ALOFOKE SE VA DE UNIVISION -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/alofoke-se-va-de-univision.html</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/alofoke-se-va-de-univision.html"/>
+    <xhtml:link rel="alternate" hreflang="es-US"     href="https://planetaalofoke.online/blog/alofoke-se-va-de-univision.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/alofoke-se-va-de-univision.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-05T12:00:00-04:00</news:publication_date>
+      <news:title>Alofoke Cancela la Alianza con Univision: Planeta Alofoke Irá 100% en YouTube</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: QUE ES PLANETA ALOFOKE -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/que-es-planeta-alofoke.html</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/que-es-planeta-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/que-es-planeta-alofoke.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T12:00:00-04:00</news:publication_date>
+      <news:title>Planeta Alofoke 2026: Qué es, Cuándo Empieza y Cómo Verlo Gratis</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: COMO VOTAR -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/como-votar.html</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/como-votar.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/como-votar.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-31T14:00:00-04:00</news:publication_date>
+      <news:title>Cómo Votar en Planeta Alofoke 2026 — Guía SuperChat para Salvar tu Favorito</news:title>
+    </news:news>
+  </url>
+
+  <!-- BLOG: HISTORIA -->
+  <url>
+    <loc>https://planetaalofoke.online/blog/historia-alofoke.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+    <xhtml:link rel="alternate" hreflang="es"        href="https://planetaalofoke.online/blog/historia-alofoke.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://planetaalofoke.online/blog/historia-alofoke.html"/>
+    <news:news>
+      <news:publication>
+        <news:name>Planeta Alofoke Online</news:name>
+        <news:language>es</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-30T10:00:00-04:00</news:publication_date>
+      <news:title>La Casa de Alofoke a Planeta Alofoke 2026 — Historia Completa del Reality</news:title>
+    </news:news>
+  </url>
+
+</urlset>
