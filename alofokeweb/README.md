@@ -1,5 +1,7 @@
 # 🌍 planetaalofoke.online
 
+🔗 **[https://planetaalofoke.online](https://planetaalofoke.online)**
+
 Sitio web de fans no oficial para **Planeta Alofoke 2026**, el reality show digital más grande de República Dominicana producido por Santiago Matías "Alofoke" y Alofoke Media Group.
 
 ---
