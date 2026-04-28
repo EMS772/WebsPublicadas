@@ -1,9 +1,0 @@
-User-agent: *
-Allow: /
-
-# Bloquear páginas sin valor SEO
-Disallow: /404
-Disallow: /?q=
-
-# Sitemap
-Sitemap: https://watools.online/sitemap.xml
